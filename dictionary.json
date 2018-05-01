@@ -1,1 +1,1 @@
-{"name":"donut-api","display_name":"donut-api","owner":"websy85","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"5ae85dfbb5b10b0b5c50aee1","base_endpoint":"api/v1"}
+{"name":"donut-api","display_name":"donut-api","owner":"websy85","auth_method":"OAuth","auth_options":{"auth_version":"2.0","oauth_token_url":"https://donutapp.io/o/token"},"paging_method":"None","paging_options":{},"tables":[],"id":"5ae85dfbb5b10b0b5c50aee1","base_endpoint":"api/v1"}
